@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishsr&label=Profile%20views&color=0e75b6&style=flat" alt="nitishsr" /> </p>
 
-- 🌱 Automaation Developer working on latest blend of technologies to design frameworks for process and test automation. Skilled in designing the framework with use of open source technologies. Have worked as full stack developer being an individual contributor to enterprise web application development. Currently, working as Software Quality Engineer in one of the biggest open source organization, *Red Hat*. I am enthusiastic about making latest picks in automation industry and happenings around the globe in Web development. I am diligently interested in learning Artificial Intelligence and Machine Learning.
+- 🌱 Automation Developer working on latest blend of technologies to design frameworks for process and test automation. Skilled in designing the framework with use of open source technologies. Have worked as full stack developer being an individual contributor to enterprise web application development. Currently, working as Software Quality Engineer in one of the biggest open source organization, *Red Hat*. I am enthusiastic about making latest picks in automation industry and happenings around the globe in Web development. I am diligently interested in learning Artificial Intelligence and Machine Learning.
 
 - 👨‍💻 All of my projects are available at [https://github.com/nitishSr](https://github.com/nitishSr)
 
