@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Java, Docker, Selenium, Desktop and GUI Automation**
 
-- 📫 Reach me at **rishi.nitish.ns@gmail.com**
+- 📫 Reach me at **rishi.nitish.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
