@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nitish Srivastava</h1>
-<h3 align="center">Automation Developer | Python | DevOps | Java | Web Developer</h3>
+<h3 align="center">Automation Developer | Python | Java | Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishsr&label=Profile%20views&color=0e75b6&style=flat" alt="nitishsr" /> </p>
 
